@@ -3,8 +3,25 @@
     height: 100px;
     border: 1px solid black;
 }
+.rechthoek {
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+}
 
 .rood{
     background-color: red;
+
+}
+.blauw{
+    background-color: blue;
+
+}
+.geel{
+    background-color: yellow;
+
+}
+.groen{
+    background-color: green;
 
 }
